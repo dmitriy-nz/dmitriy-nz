@@ -41,3 +41,5 @@ Interested in front and back development, system architecture, databases, cloud 
 - Linux 🐧
 - Coffee ☕️
 - Music 🎧
+
+![Profile views](https://gpvc.arturio.dev/dmitriy-nz)  
