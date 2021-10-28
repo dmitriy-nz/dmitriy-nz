@@ -1,4 +1,4 @@
-### Hi there 👋, I am Dmitry Nazarenko
+### Hi there 👋, I am Dmitriy Nazarenko
 
 #### I work as a Full-Stack developer
 
