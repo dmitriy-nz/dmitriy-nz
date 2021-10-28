@@ -29,7 +29,6 @@ Interested in front and back development, system architecture, databases, cloud 
 - Python
 - PHP
 - Databases (MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch)
-- 
 - Ionic
 - Cordova / Capacitor
 - AngularJS
