@@ -2,7 +2,7 @@
 
 #### I work as a Full-Stack developer
 
-I am 26 years old, graduated from the Kiev University of Communications, but I began to study programming on my own. It
+I am 27 years old, graduated from the Kiev University of Communications, but I began to study programming on my own. It
 grew from a hobby to a job. Doing what you like is cool!
 Interested in front and back development, system architecture, databases, cloud computing and neural networks.
 
