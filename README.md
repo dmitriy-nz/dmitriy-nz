@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Dmytro Nazarenko
 
-#### I work as a Full-Stack developer
+#### I work as a Full-stack developer
 
-I am 27 years old, graduated from the Kyiv University of Communications, but I began to study programming on my own. It
+I am 29 years old, graduated from the Kyiv University of Communications, but I began to study programming on my own. It
 grew from a hobby to a job. Doing what you like is cool!
-Interested in front and back development, system architecture, databases, cloud computing and neural networks.
+Interested in frontend and backend development, system architecture, databases, cloud computing and neural networks.
 
 - 🌱 I’m currently learning microservice architecture
 - ⚡ Fun fact: The first programming language: php 🐘
@@ -14,32 +14,16 @@ Interested in front and back development, system architecture, databases, cloud 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitriy-nz&show_icons=true)  
 
 ### My things
+- TypeScript / JS / NodeJS / Python / PHP
+- Microservices / SOLID / Rest API
 - Algorithmic
-- Software Development
-- Hybrid applications
-- Testing (Jest, Mocha)
+- Hybrid applications / Ionic / Capacitor / Cordova
+- Jest / Mocha
+- MySQL / PostgreSQL / MongoDB / Redis / ElasticSearch
 - Circuitry / Electronics
-- SOLID
-- Microservices
-- Rest API
-- Rx
-- TypeScript
-- JS
-- NodeJs
-- Python
-- PHP
-- Databases (MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch)
-- Ionic
 - Cordova / Capacitor
-- AngularJS
-- Angular 
-- NestJs 🐈
-- Git
-- Portainer
+- Angular / Vue / NuxtJS / AngularJS
+- NestJs 🐈 
 - Docker 🐳
 - Arduino
 - Linux 🐧
-- Coffee ☕️
-- Music 🎧
-
-![Profile views](https://gpvc.arturio.dev/dmitriy-nz)  
