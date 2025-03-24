@@ -1,6 +1,5 @@
-### Hi there 👋, I am Dmytro Nazarenko
-
-#### I work as a Full-stack developer
+## Hi there 👋, I am Dmytro
+### and I'm full stack developer
 
 I am 29 years old, graduated from the Kyiv University of Communications, but I began to study programming on my own. It
 grew from a hobby to a job. Doing what you like is cool!
